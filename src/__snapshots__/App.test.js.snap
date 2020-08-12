@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`First snapshot testt 1`] = `
+<div>
+  <p
+    className="App-header"
+  >
+    
+  </p>
+  <p
+    className="App-header"
+  >
+    This is React
+  </p>
+  <center>
+    <button
+      onClick={[Function]}
+    >
+       Increment
+    </button>
+      
+    <button
+      onClick={[Function]}
+    >
+       Decrement
+    </button>
+  </center>
+</div>
+`;

@@ -1,0 +1,126 @@
+
+.App-header {
+  font-family:Arial, Helvetica, sans-serif ;
+  font-style: italic;
+  font-stretch: narrower;
+  min-height: 10vh;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 4vmin);
+  color: rgb(165, 16, 16);
+}
+img{
+  height: 300px;
+}
+.Login h1{ color: #FFF;} 
+    .Login p{ color: burlywood }
+    .Login2 h1{ color: #FFF;} 
+    .Login2 p{ color: burlywood }
+.error{
+      color:white;
+      font-style: oblique;
+      font-weight: bold;
+    }
+.Login {
+  width: 505px;
+  margin:auto;
+  border:1px #CCC solid;
+  padding:30px;
+  background-color: #2285cc;
+  color:#FFF;
+  height:300px;
+}
+.field {
+  background: #29363f;
+  margin:5px 25px;
+  width:216px;
+  color:#FFF;
+  }
+  .field {
+    border:1px #525d65 solid;
+    padding:10px;
+    }
+.Login2 {
+  width: 505px;
+  margin:auto;
+  border:1px #CCC solid;
+  padding:30px;
+  background-color: #2285cc;
+  color:#FFF;
+  height:400px;
+  }
+
+  .field2 {
+    border:0px #525d65 solid;
+    padding:3px;
+    }
+.field2 {
+    background: #29363f;
+    margin:5px 25px;
+    width:150px;
+    color:#FFF;  
+}
+.lgn_left, .lgn_right { height: 100%; }
+    .lgn_left {
+    width: 200px;
+    border-right:1px #525d65 solid;
+    float:left;
+    }
+    .lgn_right {
+    width: 300px;
+    float: right;
+    text-align:left;
+    text-align: right;
+
+    }
+.create_btn{
+  color: white;
+  background-color: darkblue;
+  font-size: 10px;
+  width: 50px;
+  margin-right: 5px;
+  padding-right: 5px;
+}
+
+  .lgn_btn{
+    color: black    ;
+    background-color: lightblue;
+    size: 0em;
+    width: initial;
+    margin-right: 50px;
+}
+.lgn_btn2{
+  color: white;
+  background-color:lightblue;
+  size: 0em;
+  width: initial;
+  margin-right: 50px;
+}
+.link{
+  text-align: left;
+  float: left;
+ font-style: oblique;
+ font-size: 20px;
+ text-indent: 5px;
+}
+.errorMessage{
+  font-style: italic;
+  color:greenyellow;
+  font-weight: bold;
+  font-size: 10px;
+}
+
+.hmeLink{
+  font-size: x-large;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+}
+/*.One-para{
+  font-size: medium;
+  align-items: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: blue;
+}*/
+
+

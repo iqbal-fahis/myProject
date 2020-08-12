@@ -1,0 +1,56 @@
+ 
+[ {
+      
+       "userName" : "iqbaliqqu488@gmail.com",
+    
+       "passWord" : "123456",
+    
+        "firstName" : "iqbal",
+    
+        "lastName" : "fahis",
+    
+        "phoneNumber" : 9988776655
+},
+{
+      
+        "userName" : "badhu@gmail.com",
+     
+        "passWord" : "123457",
+     
+         "firstName" : "sheik",
+     
+         "lastName" : "badhusha",
+     
+         "phoneNumber" : 9988775544
+ },
+ 
+
+ { 
+        "id" :  1, 
+        "value" : 9940572756, 
+        "lastRecharge" : 349, 
+        "lastCallDuration" : "9mins 2secs", 
+        "lastCalledNumber" : 9478369258, 
+        "status" : "Active"
+ },
+
+{ 
+        "id" : 2, 
+        "value" : 9940572755, 
+        "lastRecharge" : 499, 
+        "lastCallDuration" : "30mins 22secs", 
+        "lastCalledNumber" : 9478369259, 
+        "status" : "Active"
+        },
+
+{ 
+        "id" : 3, 
+        "value" : 9940572757, 
+        "lastRecharge" : 599, 
+        "lastCallDuration" : "10mins 30secs", 
+        "lastCalledNumber" : 9478369260, 
+        "status" : "Active"
+ }
+    
+]
+
