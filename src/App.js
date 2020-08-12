@@ -69,7 +69,7 @@ render()
   
   <div>
     <p className="App-header">{this.state.name}</p>
-    <p className="App-header">This is React</p>
+    <p className="App-header">This is Reacttt</p>
     <center>
     <button onClick={this.increment}> Increment</button>&nbsp;&nbsp;
     <button onClick={this.decrement}> Decrement</button>
