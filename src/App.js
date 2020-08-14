@@ -70,6 +70,7 @@ render()
   <div>
     <p className="App-header">{this.state.name}</p>
     <p className="App-header">This is Reacttt with new branch</p>
+    <p className="App-header">This is Reacttt with pull upstream master</p>
     <center>
     <button onClick={this.increment}> Increment</button>&nbsp;&nbsp;
     <button onClick={this.decrement}> Decrement</button>
