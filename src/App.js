@@ -72,6 +72,7 @@ render()
     <p className="App-header">This is Reacttt with new branch</p>
     <p className="App-header">This is Reacttt with pull upstream master on 31/8</p>
     <p className="App-header">This is to push into branch(iqqu) on 31/8</p>
+    <p className="App-header">This is to push branch(iqqu) on 31/8</p>
     <center>
     <button onClick={this.increment}> Increment</button>&nbsp;&nbsp;
     <button onClick={this.decrement}> Decrement</button>
